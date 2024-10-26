@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.Application.deps.json
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.Application.dll
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.Application.pdb
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Application.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Application.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Application.dll
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\obj\Debug\net8.0\refint\StaticExtensionsStructEnumCasting.Application.dll
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Application.pdb
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Application\obj\Debug\net8.0\ref\StaticExtensionsStructEnumCasting.Application.dll

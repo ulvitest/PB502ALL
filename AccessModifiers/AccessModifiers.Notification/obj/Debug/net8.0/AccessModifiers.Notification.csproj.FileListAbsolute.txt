@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\bin\Debug\net8.0\AccessModifiers.Notification.deps.json
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\bin\Debug\net8.0\AccessModifiers.Notification.dll
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\bin\Debug\net8.0\AccessModifiers.Notification.pdb
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\obj\Debug\net8.0\AccessModifiers.Notification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\obj\Debug\net8.0\AccessModifiers.Notification.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\obj\Debug\net8.0\AccessModifiers.Notification.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\obj\Debug\net8.0\AccessModifiers.Notification.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\obj\Debug\net8.0\AccessModifiers.Notification.dll
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\obj\Debug\net8.0\refint\AccessModifiers.Notification.dll
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\obj\Debug\net8.0\AccessModifiers.Notification.pdb
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.Notification\obj\Debug\net8.0\ref\AccessModifiers.Notification.dll

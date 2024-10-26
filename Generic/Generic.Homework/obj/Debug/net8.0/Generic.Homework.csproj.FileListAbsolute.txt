@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\bin\Debug\net8.0\Generic.Homework.exe
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\bin\Debug\net8.0\Generic.Homework.deps.json
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\bin\Debug\net8.0\Generic.Homework.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\bin\Debug\net8.0\Generic.Homework.dll
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\bin\Debug\net8.0\Generic.Homework.pdb
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\obj\Debug\net8.0\Generic.Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\obj\Debug\net8.0\Generic.Homework.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\obj\Debug\net8.0\Generic.Homework.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\obj\Debug\net8.0\Generic.Homework.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\obj\Debug\net8.0\Generic.Homework.dll
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\obj\Debug\net8.0\refint\Generic.Homework.dll
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\obj\Debug\net8.0\Generic.Homework.pdb
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\obj\Debug\net8.0\Generic.Homework.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\Generic\Generic.Homework\obj\Debug\net8.0\ref\Generic.Homework.dll

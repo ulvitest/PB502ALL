@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\bin\Debug\net8.0\StructIndexerException.HomeWork.exe
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\bin\Debug\net8.0\StructIndexerException.HomeWork.deps.json
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\bin\Debug\net8.0\StructIndexerException.HomeWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\bin\Debug\net8.0\StructIndexerException.HomeWork.dll
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\bin\Debug\net8.0\StructIndexerException.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\obj\Debug\net8.0\StructIndexerException.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\obj\Debug\net8.0\StructIndexerException.HomeWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\obj\Debug\net8.0\StructIndexerException.HomeWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\obj\Debug\net8.0\StructIndexerException.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\obj\Debug\net8.0\StructIndexerException.HomeWork.dll
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\obj\Debug\net8.0\refint\StructIndexerException.HomeWork.dll
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\obj\Debug\net8.0\StructIndexerException.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\obj\Debug\net8.0\StructIndexerException.HomeWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.HomeWork\obj\Debug\net8.0\ref\StructIndexerException.HomeWork.dll

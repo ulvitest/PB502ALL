@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\bin\Debug\net8.0\Generic.NewLessons.exe
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\bin\Debug\net8.0\Generic.NewLessons.deps.json
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\bin\Debug\net8.0\Generic.NewLessons.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\bin\Debug\net8.0\Generic.NewLessons.dll
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\bin\Debug\net8.0\Generic.NewLessons.pdb
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\obj\Debug\net8.0\Generic.NewLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\obj\Debug\net8.0\Generic.NewLessons.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\obj\Debug\net8.0\Generic.NewLessons.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\obj\Debug\net8.0\Generic.NewLessons.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\obj\Debug\net8.0\Generic.NewLessons.dll
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\obj\Debug\net8.0\refint\Generic.NewLessons.dll
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\obj\Debug\net8.0\Generic.NewLessons.pdb
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\obj\Debug\net8.0\Generic.NewLessons.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\Generic\Generic.NewLessons\obj\Debug\net8.0\ref\Generic.NewLessons.dll

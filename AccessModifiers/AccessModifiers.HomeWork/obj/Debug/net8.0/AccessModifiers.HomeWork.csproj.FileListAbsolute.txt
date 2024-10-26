@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\bin\Debug\net8.0\AccessModifiers.HomeWork.exe
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\bin\Debug\net8.0\AccessModifiers.HomeWork.deps.json
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\bin\Debug\net8.0\AccessModifiers.HomeWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\bin\Debug\net8.0\AccessModifiers.HomeWork.dll
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\bin\Debug\net8.0\AccessModifiers.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\obj\Debug\net8.0\AccessModifiers.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\obj\Debug\net8.0\AccessModifiers.HomeWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\obj\Debug\net8.0\AccessModifiers.HomeWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\obj\Debug\net8.0\AccessModifiers.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\obj\Debug\net8.0\AccessModifiers.HomeWork.dll
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\obj\Debug\net8.0\refint\AccessModifiers.HomeWork.dll
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\obj\Debug\net8.0\AccessModifiers.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\obj\Debug\net8.0\AccessModifiers.HomeWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\AccessModifiers\AccessModifiers.HomeWork\obj\Debug\net8.0\ref\AccessModifiers.HomeWork.dll

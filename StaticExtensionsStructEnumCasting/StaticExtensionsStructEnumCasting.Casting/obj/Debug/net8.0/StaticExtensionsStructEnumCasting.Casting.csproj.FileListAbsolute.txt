@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.exe
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.deps.json
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.dll
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.pdb
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.dll
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\obj\Debug\net8.0\refint\StaticExtensionsStructEnumCasting.Casting.dll
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.pdb
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.Casting.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.Casting\obj\Debug\net8.0\ref\StaticExtensionsStructEnumCasting.Casting.dll

@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\bin\Debug\net8.0\StructIndexerException.Library.deps.json
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\bin\Debug\net8.0\StructIndexerException.Library.dll
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\bin\Debug\net8.0\StructIndexerException.Library.pdb
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\obj\Debug\net8.0\StructIndexerException.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\obj\Debug\net8.0\StructIndexerException.Library.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\obj\Debug\net8.0\StructIndexerException.Library.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\obj\Debug\net8.0\StructIndexerException.Library.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\obj\Debug\net8.0\StructIndexerException.Library.dll
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\obj\Debug\net8.0\refint\StructIndexerException.Library.dll
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\obj\Debug\net8.0\StructIndexerException.Library.pdb
+C:\Users\USER\Desktop\PB502\StructIndexerException\StructIndexerException.Library\obj\Debug\net8.0\ref\StructIndexerException.Library.dll

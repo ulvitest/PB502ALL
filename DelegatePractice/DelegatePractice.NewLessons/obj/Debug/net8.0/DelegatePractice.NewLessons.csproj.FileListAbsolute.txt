@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\obj\Debug\net8.0\DelegatePractice.NewLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\obj\Debug\net8.0\DelegatePractice.NewLessons.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\obj\Debug\net8.0\DelegatePractice.NewLessons.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\obj\Debug\net8.0\DelegatePractice.NewLessons.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\bin\Debug\net8.0\DelegatePractice.NewLessons.exe
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\bin\Debug\net8.0\DelegatePractice.NewLessons.deps.json
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\bin\Debug\net8.0\DelegatePractice.NewLessons.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\bin\Debug\net8.0\DelegatePractice.NewLessons.dll
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\bin\Debug\net8.0\DelegatePractice.NewLessons.pdb
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\obj\Debug\net8.0\DelegatePractice.NewLessons.dll
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\obj\Debug\net8.0\refint\DelegatePractice.NewLessons.dll
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\obj\Debug\net8.0\DelegatePractice.NewLessons.pdb
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\obj\Debug\net8.0\DelegatePractice.NewLessons.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.NewLessons\obj\Debug\net8.0\ref\DelegatePractice.NewLessons.dll

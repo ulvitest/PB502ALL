@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StructIndexerException.Lessons/1.0.0": {
+        "dependencies": {
+          "StructIndexerException.Library": "1.0.0"
+        },
+        "runtime": {
+          "StructIndexerException.Lessons.dll": {}
+        }
+      },
+      "StructIndexerException.Library/1.0.0": {
+        "runtime": {
+          "StructIndexerException.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StructIndexerException.Lessons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StructIndexerException.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

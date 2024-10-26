@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.exe
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.deps.json
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.dll
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\bin\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.pdb
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.dll
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\obj\Debug\net8.0\refint\StaticExtensionsStructEnumCasting.HomewWork.dll
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.pdb
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\obj\Debug\net8.0\StaticExtensionsStructEnumCasting.HomewWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\StaticExtensionsStructEnumCasting\StaticExtensionsStructEnumCasting.HomewWork\obj\Debug\net8.0\ref\StaticExtensionsStructEnumCasting.HomewWork.dll

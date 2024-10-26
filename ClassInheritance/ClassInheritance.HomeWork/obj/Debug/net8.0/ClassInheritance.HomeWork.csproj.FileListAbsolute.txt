@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\bin\Debug\net8.0\ClassInheritance.HomeWork.exe
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\bin\Debug\net8.0\ClassInheritance.HomeWork.deps.json
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\bin\Debug\net8.0\ClassInheritance.HomeWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\bin\Debug\net8.0\ClassInheritance.HomeWork.dll
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\bin\Debug\net8.0\ClassInheritance.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\obj\Debug\net8.0\ClassInheritance.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\obj\Debug\net8.0\ClassInheritance.HomeWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\obj\Debug\net8.0\ClassInheritance.HomeWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\obj\Debug\net8.0\ClassInheritance.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\obj\Debug\net8.0\ClassInheritance.HomeWork.dll
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\obj\Debug\net8.0\refint\ClassInheritance.HomeWork.dll
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\obj\Debug\net8.0\ClassInheritance.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\obj\Debug\net8.0\ClassInheritance.HomeWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.HomeWork\obj\Debug\net8.0\ref\ClassInheritance.HomeWork.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\bin\Debug\net8.0\MethodPart2.HomeWork.exe
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\bin\Debug\net8.0\MethodPart2.HomeWork.deps.json
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\bin\Debug\net8.0\MethodPart2.HomeWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\bin\Debug\net8.0\MethodPart2.HomeWork.dll
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\bin\Debug\net8.0\MethodPart2.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\obj\Debug\net8.0\MethodPart2.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\obj\Debug\net8.0\MethodPart2.HomeWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\obj\Debug\net8.0\MethodPart2.HomeWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\obj\Debug\net8.0\MethodPart2.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\obj\Debug\net8.0\MethodPart2.HomeWork.dll
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\obj\Debug\net8.0\refint\MethodPart2.HomeWork.dll
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\obj\Debug\net8.0\MethodPart2.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\obj\Debug\net8.0\MethodPart2.HomeWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.HomeWork\obj\Debug\net8.0\ref\MethodPart2.HomeWork.dll

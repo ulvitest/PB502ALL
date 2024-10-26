@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\bin\Debug\net8.0\ClassInheritance.Practice.exe
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\bin\Debug\net8.0\ClassInheritance.Practice.deps.json
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\bin\Debug\net8.0\ClassInheritance.Practice.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\bin\Debug\net8.0\ClassInheritance.Practice.dll
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\bin\Debug\net8.0\ClassInheritance.Practice.pdb
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\obj\Debug\net8.0\ClassInheritance.Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\obj\Debug\net8.0\ClassInheritance.Practice.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\obj\Debug\net8.0\ClassInheritance.Practice.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\obj\Debug\net8.0\ClassInheritance.Practice.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\obj\Debug\net8.0\ClassInheritance.Practice.dll
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\obj\Debug\net8.0\refint\ClassInheritance.Practice.dll
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\obj\Debug\net8.0\ClassInheritance.Practice.pdb
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\obj\Debug\net8.0\ClassInheritance.Practice.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.Practice\obj\Debug\net8.0\ref\ClassInheritance.Practice.dll

@@ -1,0 +1,40 @@
+﻿IEntity interface
+Id - property olacaq
+Bu interface-i implement edən class-larda id dəyəri avtomatik artacaq və qıraqdan set etmək olmaz yalnız get etmək olar.
+
+Utils bir class library olacaq
+
+Enums folder
+Role - Admin və Member rolları olacaq içində və default olaraq 1-dən başlayacaq.
+ResponseMessage Constants folder
+CapacityLimitException(yer doludur)
+AlreadyExistsException(artiq movcuddur)
+NotFoundException(tapilmadi)
+NullReferenceException (null ola bilmez)
+User class (IEntity-ni implement edəcək)
+
+Username
+Email
+Role - Role enumı tipindən bir role property-i olacaq.
+ShowInfo()
+ps: Username, email, role olmadan user obyekti yaratmaq olmaz
+
+Book class (IEntity-ni implement edəcək)
+
+Name
+AuthorName
+PageCount
+IsDeleted - book obyektinin silinib silinmədiyini göstərən bir statusdur true/false olur default olaraq false olur yəni silinməmiş
+ShowInfo()
+ps: Name, authorName, pageCount olmadan book obyekti yaratmaq olmaz
+
+Library class (IEntity-ni implement edəcək)
+
+BookLimit
+Books - Book obyektlərini özündə saxlayan bir list olacaq və private olacaq
+AddBook() - parametr olaraq bir Book obyekti qəbul edəcək ilk olaraq yoxlayacaq ki listdə həmin book-un name-i ilə eyni name-də olan başqa book obyekti varsa əlavə etməyəcək həmçinin bu yoxlanışda baxmaq lazımdıki isDeleted dəyəri false olanlara baxsın true olanları yoxlamasın əgər həmin name-də book varsa AlreadyExistsException geriyə qaytarılsın əks halda Book obyektini books listinə əlavə etsin əgər limir aşılarsa "CapacityLimitException(yer doludur)" yazdirin.
+GetBookById() - parametr olaraq nullable int tipindən bir id qəbul edəcək həmin id-li və isDeleted statusu false olan Book obyketini tapıb geriyə qaytaracaq əgər id null gələrsə  "NullReferenceException (null ola bilmez)" yazdirin.  əgər heç bir kitab tapmasa null qaytaracaq.
+GetAllBooks() - Books listindəki elementləri başqa bir listə əlavə edib həmin listi geriyə qaytaracaq.
+DeleteBookById() - parametr olaraq nullable int tipindən bir id qəbul edəcək həmin idli və isDeleted statusu false olan book obyektini tapıb isDeleted statusunu true edəcək əgər id null olarsa "NullReferenceException (null ola bilmez)" yazdirin. əgər ele bir book tapmasa  NotFoundException(tapilmadi)yazdirin
+EditBookName() - parametr olaraq int tipindən nullable bir id qəbul edəcək həmin id-li book-u tapıb name-ni dəyişəcək əgər id null olarsa "NullReferenceException (null ola bilmez)" yazdirin əgər elə bir book tapmasa NotFoundException(tapilmadi)yazdirin
+FilterByPageCount() - parametr olaraq minPageCount və maxPageCount qəbul edəcək bu aralıqda olan və isDeleted statusu false olan book obyektlərini tapıb geriyə qaytaracaq. Program class Bir user obyekti yaradılsın və console-dan bütün məlumatları daxil olunsun əgər olmayan bir role daxil edilsə yenidən role dəyəri istənsin.

@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\collectionsreflectionfile\\collectionsreflectionfile.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|solutionrelative:collectionsreflectionfile.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\collectionsreflectionfile\\collectionsreflectionfile.lesson\\data\\fakedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|solutionrelative:collectionsreflectionfile.lesson\\data\\fakedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\collectionsreflectionfile\\collectionsreflectionfile.lesson\\data\\student.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|solutionrelative:collectionsreflectionfile.lesson\\data\\student.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\collectionsreflectionfile\\collectionsreflectionfile.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|solutionrelative:collectionsreflectionfile.lesson\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\collectionsreflectionfile\\collectionsreflectionfile.lesson\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|solutionrelative:collectionsreflectionfile.lesson\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\collectionsreflectionfile\\collectionsreflectionfile.lesson\\data\\student.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{837D8CAD-57EE-4028-B609-9CA91FC64ACD}|CollectionsReflectionFile.Lesson\\CollectionsReflectionFile.Lesson.csproj|solutionrelative:collectionsreflectionfile.lesson\\data\\student.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionsReflectionFile.Lesson\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Program.cs",
+              "RelativeToolTip": "CollectionsReflectionFile.Lesson\\Program.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAQwLwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:08:37.969Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fakeData.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Data\\fakeData.json",
+              "RelativeDocumentMoniker": "CollectionsReflectionFile.Lesson\\Data\\fakeData.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Data\\fakeData.json",
+              "RelativeToolTip": "CollectionsReflectionFile.Lesson\\Data\\fakeData.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T14:41:01.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Data\\student.json",
+              "RelativeDocumentMoniker": "CollectionsReflectionFile.Lesson\\Data\\student.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Data\\student.json",
+              "RelativeToolTip": "CollectionsReflectionFile.Lesson\\Data\\student.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T14:40:58.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CollectionsReflectionFile.Lesson\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Models\\User.cs",
+              "RelativeToolTip": "CollectionsReflectionFile.Lesson\\Models\\User.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA7wBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:35:11.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CollectionsReflectionFile.Lesson\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Models\\Student.cs",
+              "RelativeToolTip": "CollectionsReflectionFile.Lesson\\Models\\Student.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:18:18.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "student.xml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Data\\student.xml",
+              "RelativeDocumentMoniker": "CollectionsReflectionFile.Lesson\\Data\\student.xml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\CollectionsReflectionFile\\CollectionsReflectionFile.Lesson\\Data\\student.xml",
+              "RelativeToolTip": "CollectionsReflectionFile.Lesson\\Data\\student.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-26T14:17:32.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

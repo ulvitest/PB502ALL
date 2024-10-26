@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\bin\Debug\net8.0\ClassInheritance.ClassPart2.exe
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\bin\Debug\net8.0\ClassInheritance.ClassPart2.deps.json
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\bin\Debug\net8.0\ClassInheritance.ClassPart2.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\bin\Debug\net8.0\ClassInheritance.ClassPart2.dll
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\bin\Debug\net8.0\ClassInheritance.ClassPart2.pdb
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\obj\Debug\net8.0\ClassInheritance.ClassPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\obj\Debug\net8.0\ClassInheritance.ClassPart2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\obj\Debug\net8.0\ClassInheritance.ClassPart2.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\obj\Debug\net8.0\ClassInheritance.ClassPart2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\obj\Debug\net8.0\ClassInheritance.ClassPart2.dll
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\obj\Debug\net8.0\refint\ClassInheritance.ClassPart2.dll
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\obj\Debug\net8.0\ClassInheritance.ClassPart2.pdb
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\obj\Debug\net8.0\ClassInheritance.ClassPart2.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\ClassInheritance\ClassInheritance.ClassPart2\obj\Debug\net8.0\ref\ClassInheritance.ClassPart2.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\bin\Debug\net8.0\MethodPart2.StringArray.exe
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\bin\Debug\net8.0\MethodPart2.StringArray.deps.json
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\bin\Debug\net8.0\MethodPart2.StringArray.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\bin\Debug\net8.0\MethodPart2.StringArray.dll
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\bin\Debug\net8.0\MethodPart2.StringArray.pdb
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\obj\Debug\net8.0\MethodPart2.StringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\obj\Debug\net8.0\MethodPart2.StringArray.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\obj\Debug\net8.0\MethodPart2.StringArray.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\obj\Debug\net8.0\MethodPart2.StringArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\obj\Debug\net8.0\MethodPart2.StringArray.dll
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\obj\Debug\net8.0\refint\MethodPart2.StringArray.dll
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\obj\Debug\net8.0\MethodPart2.StringArray.pdb
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\obj\Debug\net8.0\MethodPart2.StringArray.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.StringArray\obj\Debug\net8.0\ref\MethodPart2.StringArray.dll

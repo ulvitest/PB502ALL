@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbstractClassInterface.NewLessons/1.0.0": {
+        "runtime": {
+          "AbstractClassInterface.NewLessons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractClassInterface.NewLessons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

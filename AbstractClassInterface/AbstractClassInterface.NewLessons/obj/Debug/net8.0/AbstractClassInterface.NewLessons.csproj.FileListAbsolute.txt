@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\bin\Debug\net8.0\AbstractClassInterface.NewLessons.exe
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\bin\Debug\net8.0\AbstractClassInterface.NewLessons.deps.json
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\bin\Debug\net8.0\AbstractClassInterface.NewLessons.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\bin\Debug\net8.0\AbstractClassInterface.NewLessons.dll
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\bin\Debug\net8.0\AbstractClassInterface.NewLessons.pdb
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\obj\Debug\net8.0\AbstractClassInterface.NewLessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\obj\Debug\net8.0\AbstractClassInterface.NewLessons.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\obj\Debug\net8.0\AbstractClassInterface.NewLessons.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\obj\Debug\net8.0\AbstractClassInterface.NewLessons.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\obj\Debug\net8.0\AbstractClassInterface.NewLessons.dll
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\obj\Debug\net8.0\refint\AbstractClassInterface.NewLessons.dll
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\obj\Debug\net8.0\AbstractClassInterface.NewLessons.pdb
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\obj\Debug\net8.0\AbstractClassInterface.NewLessons.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.NewLessons\obj\Debug\net8.0\ref\AbstractClassInterface.NewLessons.dll

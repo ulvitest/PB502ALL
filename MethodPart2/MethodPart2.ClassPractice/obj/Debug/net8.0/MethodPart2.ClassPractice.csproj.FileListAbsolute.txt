@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\bin\Debug\net8.0\MethodPart2.ClassPractice.exe
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\bin\Debug\net8.0\MethodPart2.ClassPractice.deps.json
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\bin\Debug\net8.0\MethodPart2.ClassPractice.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\bin\Debug\net8.0\MethodPart2.ClassPractice.dll
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\bin\Debug\net8.0\MethodPart2.ClassPractice.pdb
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\obj\Debug\net8.0\MethodPart2.ClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\obj\Debug\net8.0\MethodPart2.ClassPractice.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\obj\Debug\net8.0\MethodPart2.ClassPractice.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\obj\Debug\net8.0\MethodPart2.ClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\obj\Debug\net8.0\MethodPart2.ClassPractice.dll
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\obj\Debug\net8.0\refint\MethodPart2.ClassPractice.dll
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\obj\Debug\net8.0\MethodPart2.ClassPractice.pdb
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\obj\Debug\net8.0\MethodPart2.ClassPractice.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\MethodPart2\MethodPart2.ClassPractice\obj\Debug\net8.0\ref\MethodPart2.ClassPractice.dll

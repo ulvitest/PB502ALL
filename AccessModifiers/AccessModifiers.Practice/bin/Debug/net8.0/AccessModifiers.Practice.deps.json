@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AccessModifiers.Practice/1.0.0": {
+        "dependencies": {
+          "AccessModifiers.Notification": "1.0.0"
+        },
+        "runtime": {
+          "AccessModifiers.Practice.dll": {}
+        }
+      },
+      "AccessModifiers.Notification/1.0.0": {
+        "runtime": {
+          "AccessModifiers.Notification.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessModifiers.Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccessModifiers.Notification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

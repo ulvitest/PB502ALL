@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\bin\Debug\net8.0\CollectionsReflectionFile.Lesson.exe
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\bin\Debug\net8.0\CollectionsReflectionFile.Lesson.deps.json
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\bin\Debug\net8.0\CollectionsReflectionFile.Lesson.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\bin\Debug\net8.0\CollectionsReflectionFile.Lesson.dll
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\bin\Debug\net8.0\CollectionsReflectionFile.Lesson.pdb
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\obj\Debug\net8.0\CollectionsReflectionFile.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\obj\Debug\net8.0\CollectionsReflectionFile.Lesson.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\obj\Debug\net8.0\CollectionsReflectionFile.Lesson.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\obj\Debug\net8.0\CollectionsReflectionFile.Lesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\obj\Debug\net8.0\CollectionsReflectionFile.Lesson.dll
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\obj\Debug\net8.0\refint\CollectionsReflectionFile.Lesson.dll
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\obj\Debug\net8.0\CollectionsReflectionFile.Lesson.pdb
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\obj\Debug\net8.0\CollectionsReflectionFile.Lesson.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\CollectionsReflectionFile\CollectionsReflectionFile.Lesson\obj\Debug\net8.0\ref\CollectionsReflectionFile.Lesson.dll

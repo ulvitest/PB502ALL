@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB502\\MethodPart2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05A38BB-51D8-41FA-8DBA-49A3FE7253A2}|MethodPart2.ClassPractice\\MethodPart2.ClassPractice.csproj|c:\\users\\user\\desktop\\pb502\\methodpart2\\methodpart2.classpractice\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05A38BB-51D8-41FA-8DBA-49A3FE7253A2}|MethodPart2.ClassPractice\\MethodPart2.ClassPractice.csproj|solutionrelative:methodpart2.classpractice\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05A38BB-51D8-41FA-8DBA-49A3FE7253A2}|MethodPart2.ClassPractice\\MethodPart2.ClassPractice.csproj|c:\\users\\user\\desktop\\pb502\\methodpart2\\methodpart2.classpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05A38BB-51D8-41FA-8DBA-49A3FE7253A2}|MethodPart2.ClassPractice\\MethodPart2.ClassPractice.csproj|solutionrelative:methodpart2.classpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\MethodPart2\\MethodPart2.ClassPractice\\Student.cs",
+              "RelativeDocumentMoniker": "MethodPart2.ClassPractice\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\MethodPart2\\MethodPart2.ClassPractice\\Student.cs",
+              "RelativeToolTip": "MethodPart2.ClassPractice\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:15:25.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\MethodPart2\\MethodPart2.ClassPractice\\Program.cs",
+              "RelativeDocumentMoniker": "MethodPart2.ClassPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\MethodPart2\\MethodPart2.ClassPractice\\Program.cs",
+              "RelativeToolTip": "MethodPart2.ClassPractice\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:42:35.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

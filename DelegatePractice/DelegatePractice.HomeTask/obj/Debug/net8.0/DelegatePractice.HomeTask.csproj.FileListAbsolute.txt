@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\bin\Debug\net8.0\DelegatePractice.HomeTask.exe
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\bin\Debug\net8.0\DelegatePractice.HomeTask.deps.json
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\bin\Debug\net8.0\DelegatePractice.HomeTask.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\bin\Debug\net8.0\DelegatePractice.HomeTask.dll
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\bin\Debug\net8.0\DelegatePractice.HomeTask.pdb
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\obj\Debug\net8.0\DelegatePractice.HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\obj\Debug\net8.0\DelegatePractice.HomeTask.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\obj\Debug\net8.0\DelegatePractice.HomeTask.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\obj\Debug\net8.0\DelegatePractice.HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\obj\Debug\net8.0\DelegatePractice.HomeTask.dll
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\obj\Debug\net8.0\refint\DelegatePractice.HomeTask.dll
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\obj\Debug\net8.0\DelegatePractice.HomeTask.pdb
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\obj\Debug\net8.0\DelegatePractice.HomeTask.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\DelegatePractice\DelegatePractice.HomeTask\obj\Debug\net8.0\ref\DelegatePractice.HomeTask.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\bin\Debug\net8.0\AbstractClassInterface.HomeWork.exe
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\bin\Debug\net8.0\AbstractClassInterface.HomeWork.deps.json
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\bin\Debug\net8.0\AbstractClassInterface.HomeWork.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\bin\Debug\net8.0\AbstractClassInterface.HomeWork.dll
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\bin\Debug\net8.0\AbstractClassInterface.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\obj\Debug\net8.0\AbstractClassInterface.HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\obj\Debug\net8.0\AbstractClassInterface.HomeWork.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\obj\Debug\net8.0\AbstractClassInterface.HomeWork.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\obj\Debug\net8.0\AbstractClassInterface.HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\obj\Debug\net8.0\AbstractClassInterface.HomeWork.dll
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\obj\Debug\net8.0\refint\AbstractClassInterface.HomeWork.dll
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\obj\Debug\net8.0\AbstractClassInterface.HomeWork.pdb
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\obj\Debug\net8.0\AbstractClassInterface.HomeWork.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\AbstractClassInterface\AbstractClassInterface.HomeWork\obj\Debug\net8.0\ref\AbstractClassInterface.HomeWork.dll

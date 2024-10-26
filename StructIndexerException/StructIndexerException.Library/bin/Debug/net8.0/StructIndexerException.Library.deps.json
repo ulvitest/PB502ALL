@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StructIndexerException.Library/1.0.0": {
+        "runtime": {
+          "StructIndexerException.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StructIndexerException.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB502\\AccessModifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494B77FD-3367-486E-BAA3-6EADB2630C76}|AccessModifiers.Notification\\AccessModifiers.Notification.csproj|c:\\users\\user\\desktop\\pb502\\accessmodifiers\\accessmodifiers.notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494B77FD-3367-486E-BAA3-6EADB2630C76}|AccessModifiers.Notification\\AccessModifiers.Notification.csproj|solutionrelative:accessmodifiers.notification\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A7F319-84BB-47C8-B063-36AA4F12AD33}|AccessModifiers.Practice\\AccessModifiers.Practice.csproj|c:\\users\\user\\desktop\\pb502\\accessmodifiers\\accessmodifiers.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A7F319-84BB-47C8-B063-36AA4F12AD33}|AccessModifiers.Practice\\AccessModifiers.Practice.csproj|solutionrelative:accessmodifiers.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\AccessModifiers\\AccessModifiers.Notification\\NotificationService.cs",
+              "RelativeDocumentMoniker": "AccessModifiers.Notification\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\AccessModifiers\\AccessModifiers.Notification\\NotificationService.cs",
+              "RelativeToolTip": "AccessModifiers.Notification\\NotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:16:16.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\AccessModifiers\\AccessModifiers.Practice\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers.Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\AccessModifiers\\AccessModifiers.Practice\\Program.cs",
+              "RelativeToolTip": "AccessModifiers.Practice\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:14:48.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\bin\Debug\net8.0\MethodPractice.Homework.exe
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\bin\Debug\net8.0\MethodPractice.Homework.deps.json
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\bin\Debug\net8.0\MethodPractice.Homework.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\bin\Debug\net8.0\MethodPractice.Homework.dll
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\bin\Debug\net8.0\MethodPractice.Homework.pdb
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\obj\Debug\net8.0\MethodPractice.Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\obj\Debug\net8.0\MethodPractice.Homework.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\obj\Debug\net8.0\MethodPractice.Homework.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\obj\Debug\net8.0\MethodPractice.Homework.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\obj\Debug\net8.0\MethodPractice.Homework.dll
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\obj\Debug\net8.0\refint\MethodPractice.Homework.dll
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\obj\Debug\net8.0\MethodPractice.Homework.pdb
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\obj\Debug\net8.0\MethodPractice.Homework.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\MethodPractice\MethodPractice.Homework\obj\Debug\net8.0\ref\MethodPractice.Homework.dll
