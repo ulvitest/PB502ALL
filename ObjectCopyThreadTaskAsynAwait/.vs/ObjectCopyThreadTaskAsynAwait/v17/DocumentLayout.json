@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB502\\ObjectCopyThreadTaskAsynAwait\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D519E4E-70C3-43BD-B4C2-DFB55AC66A85}|ObjectCopyThreadTaskAsynAwait.Lesson\\ObjectCopyThreadTaskAsynAwait.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\objectcopythreadtaskasynawait\\objectcopythreadtaskasynawait.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D519E4E-70C3-43BD-B4C2-DFB55AC66A85}|ObjectCopyThreadTaskAsynAwait.Lesson\\ObjectCopyThreadTaskAsynAwait.Lesson.csproj|solutionrelative:objectcopythreadtaskasynawait.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D519E4E-70C3-43BD-B4C2-DFB55AC66A85}|ObjectCopyThreadTaskAsynAwait.Lesson\\ObjectCopyThreadTaskAsynAwait.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\objectcopythreadtaskasynawait\\objectcopythreadtaskasynawait.lesson\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D519E4E-70C3-43BD-B4C2-DFB55AC66A85}|ObjectCopyThreadTaskAsynAwait.Lesson\\ObjectCopyThreadTaskAsynAwait.Lesson.csproj|solutionrelative:objectcopythreadtaskasynawait.lesson\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D519E4E-70C3-43BD-B4C2-DFB55AC66A85}|ObjectCopyThreadTaskAsynAwait.Lesson\\ObjectCopyThreadTaskAsynAwait.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\objectcopythreadtaskasynawait\\objectcopythreadtaskasynawait.lesson\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D519E4E-70C3-43BD-B4C2-DFB55AC66A85}|ObjectCopyThreadTaskAsynAwait.Lesson\\ObjectCopyThreadTaskAsynAwait.Lesson.csproj|solutionrelative:objectcopythreadtaskasynawait.lesson\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D519E4E-70C3-43BD-B4C2-DFB55AC66A85}|ObjectCopyThreadTaskAsynAwait.Lesson\\ObjectCopyThreadTaskAsynAwait.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\objectcopythreadtaskasynawait\\objectcopythreadtaskasynawait.lesson\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D519E4E-70C3-43BD-B4C2-DFB55AC66A85}|ObjectCopyThreadTaskAsynAwait.Lesson\\ObjectCopyThreadTaskAsynAwait.Lesson.csproj|solutionrelative:objectcopythreadtaskasynawait.lesson\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\ObjectCopyThreadTaskAsynAwait\\ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\Bank.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\ObjectCopyThreadTaskAsynAwait\\ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\Bank.cs",
+              "RelativeToolTip": "ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\Bank.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:03:02.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\ObjectCopyThreadTaskAsynAwait\\ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\UserDetail.cs",
+              "RelativeDocumentMoniker": "ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\UserDetail.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\ObjectCopyThreadTaskAsynAwait\\ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\UserDetail.cs",
+              "RelativeToolTip": "ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\UserDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:48:25.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\ObjectCopyThreadTaskAsynAwait\\ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\ObjectCopyThreadTaskAsynAwait\\ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\User.cs",
+              "RelativeToolTip": "ObjectCopyThreadTaskAsynAwait.Lesson\\Models\\User.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:33:32.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\ObjectCopyThreadTaskAsynAwait\\ObjectCopyThreadTaskAsynAwait.Lesson\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectCopyThreadTaskAsynAwait.Lesson\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\ObjectCopyThreadTaskAsynAwait\\ObjectCopyThreadTaskAsynAwait.Lesson\\Program.cs*",
+              "RelativeToolTip": "ObjectCopyThreadTaskAsynAwait.Lesson\\Program.cs*",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwFwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:29:49.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

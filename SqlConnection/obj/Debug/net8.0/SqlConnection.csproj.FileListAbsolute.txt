@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB502\SqlConnection\bin\Debug\net8.0\SqlConnection.exe
+C:\Users\USER\Desktop\PB502\SqlConnection\bin\Debug\net8.0\SqlConnection.deps.json
+C:\Users\USER\Desktop\PB502\SqlConnection\bin\Debug\net8.0\SqlConnection.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\SqlConnection\bin\Debug\net8.0\SqlConnection.dll
+C:\Users\USER\Desktop\PB502\SqlConnection\bin\Debug\net8.0\SqlConnection.pdb
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\SqlConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\SqlConnection.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\SqlConnection.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\SqlConnection.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\SqlConnection.sourcelink.json
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\SqlConnection.dll
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\refint\SqlConnection.dll
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\SqlConnection.pdb
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\SqlConnection.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\SqlConnection\obj\Debug\net8.0\ref\SqlConnection.dll

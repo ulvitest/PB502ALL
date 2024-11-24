@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB502\\StaticExtensionsStructEnumCasting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E626006-11E0-4194-87D4-9267535EB5BE}|StaticExtensionsStructEnumCasting.HomewWork\\StaticExtensionsStructEnumCasting.HomewWork.csproj|c:\\users\\user\\desktop\\pb502\\staticextensionsstructenumcasting\\staticextensionsstructenumcasting.homewwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E626006-11E0-4194-87D4-9267535EB5BE}|StaticExtensionsStructEnumCasting.HomewWork\\StaticExtensionsStructEnumCasting.HomewWork.csproj|solutionrelative:staticextensionsstructenumcasting.homewwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7BB8C0E-2D3A-40D5-A4D1-EC006FC45A0A}|StaticExtensionsStructEnumCasting.Casting\\StaticExtensionsStructEnumCasting.Casting.csproj|c:\\users\\user\\desktop\\pb502\\staticextensionsstructenumcasting\\staticextensionsstructenumcasting.casting\\models\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7BB8C0E-2D3A-40D5-A4D1-EC006FC45A0A}|StaticExtensionsStructEnumCasting.Casting\\StaticExtensionsStructEnumCasting.Casting.csproj|solutionrelative:staticextensionsstructenumcasting.casting\\models\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\StaticExtensionsStructEnumCasting\\StaticExtensionsStructEnumCasting.HomewWork\\Program.cs",
+              "RelativeDocumentMoniker": "StaticExtensionsStructEnumCasting.HomewWork\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\StaticExtensionsStructEnumCasting\\StaticExtensionsStructEnumCasting.HomewWork\\Program.cs",
+              "RelativeToolTip": "StaticExtensionsStructEnumCasting.HomewWork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:59:20.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Dollar.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\StaticExtensionsStructEnumCasting\\StaticExtensionsStructEnumCasting.Casting\\Models\\Dollar.cs",
               "RelativeDocumentMoniker": "StaticExtensionsStructEnumCasting.Casting\\Models\\Dollar.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\StaticExtensionsStructEnumCasting\\StaticExtensionsStructEnumCasting.Casting\\Program.cs",
               "RelativeDocumentMoniker": "StaticExtensionsStructEnumCasting.Casting\\Program.cs",
@@ -67,12 +84,11 @@
               "RelativeToolTip": "StaticExtensionsStructEnumCasting.Casting\\Program.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwCwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:02:46.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:02:46.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DesignEngineer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\StaticExtensionsStructEnumCasting\\StaticExtensionsStructEnumCasting.Casting\\Models\\DesignEngineer.cs",
               "RelativeDocumentMoniker": "StaticExtensionsStructEnumCasting.Casting\\Models\\DesignEngineer.cs",
@@ -80,12 +96,11 @@
               "RelativeToolTip": "StaticExtensionsStructEnumCasting.Casting\\Models\\DesignEngineer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:02:10.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:02:10.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProgrammerEngineer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\StaticExtensionsStructEnumCasting\\StaticExtensionsStructEnumCasting.Casting\\Models\\ProgrammerEngineer.cs",
               "RelativeDocumentMoniker": "StaticExtensionsStructEnumCasting.Casting\\Models\\ProgrammerEngineer.cs",
@@ -93,12 +108,11 @@
               "RelativeToolTip": "StaticExtensionsStructEnumCasting.Casting\\Models\\ProgrammerEngineer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:00:52.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:00:52.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Engineer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\StaticExtensionsStructEnumCasting\\StaticExtensionsStructEnumCasting.Casting\\Models\\Engineer.cs",
               "RelativeDocumentMoniker": "StaticExtensionsStructEnumCasting.Casting\\Models\\Engineer.cs",
@@ -106,12 +120,11 @@
               "RelativeToolTip": "StaticExtensionsStructEnumCasting.Casting\\Models\\Engineer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:00:06.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:00:06.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\StaticExtensionsStructEnumCasting\\StaticExtensionsStructEnumCasting.Casting\\Models\\Person.cs",
               "RelativeDocumentMoniker": "StaticExtensionsStructEnumCasting.Casting\\Models\\Person.cs",
@@ -119,8 +132,7 @@
               "RelativeToolTip": "StaticExtensionsStructEnumCasting.Casting\\Models\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:58:45.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:58:45.248Z"
             }
           ]
         }

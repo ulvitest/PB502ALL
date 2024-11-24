@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\bin\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.exe
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\bin\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.deps.json
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\bin\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.runtimeconfig.json
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\bin\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.dll
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\bin\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.pdb
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.AssemblyInfo.cs
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.sourcelink.json
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.dll
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\refint\ObjectCopyThreadTaskAsynAwait.Lesson.dll
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.pdb
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\ObjectCopyThreadTaskAsynAwait.Lesson.genruntimeconfig.cache
+C:\Users\USER\Desktop\PB502\ObjectCopyThreadTaskAsynAwait\ObjectCopyThreadTaskAsynAwait.Lesson\obj\Debug\net8.0\ref\ObjectCopyThreadTaskAsynAwait.Lesson.dll
