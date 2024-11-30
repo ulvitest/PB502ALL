@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\ormpractice\\ormpractice.lesson\\data\\academycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|solutionrelative:ormpractice.lesson\\data\\academycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\ormpractice\\ormpractice.lesson\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|solutionrelative:ormpractice.lesson\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\ormpractice\\ormpractice.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|solutionrelative:ormpractice.lesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\ormpractice\\ormpractice.lesson\\entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|solutionrelative:ormpractice.lesson\\entities\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|c:\\users\\user\\desktop\\pb502\\ormpractice\\ormpractice.lesson\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0AF338-29CC-40B0-9B3A-E954780876D7}|OrmPractice.Lesson\\OrmPractice.Lesson.csproj|solutionrelative:ormpractice.lesson\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcademyContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Data\\AcademyContext.cs",
+              "RelativeDocumentMoniker": "OrmPractice.Lesson\\Data\\AcademyContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Data\\AcademyContext.cs",
+              "RelativeToolTip": "OrmPractice.Lesson\\Data\\AcademyContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:07:29.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "OrmPractice.Lesson\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Entities\\Teacher.cs",
+              "RelativeToolTip": "OrmPractice.Lesson\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:06:44.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Entities\\Detail.cs",
+              "RelativeDocumentMoniker": "OrmPractice.Lesson\\Entities\\Detail.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Entities\\Detail.cs",
+              "RelativeToolTip": "OrmPractice.Lesson\\Entities\\Detail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:58:31.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "OrmPractice.Lesson\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Entities\\Student.cs",
+              "RelativeToolTip": "OrmPractice.Lesson\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:58:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Program.cs",
+              "RelativeDocumentMoniker": "OrmPractice.Lesson\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PB502\\OrmPractice\\OrmPractice.Lesson\\Program.cs",
+              "RelativeToolTip": "OrmPractice.Lesson\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:57:27.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
