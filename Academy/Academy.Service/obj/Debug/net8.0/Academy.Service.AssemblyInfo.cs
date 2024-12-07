@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Academy.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63d7e6f2d014a4286548111a7a4fd97ae3ca5f2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ebe55217c07f462f2bea3da2a970c92070788c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Academy.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Academy.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
