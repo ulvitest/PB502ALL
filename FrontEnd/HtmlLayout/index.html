@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Html Layout</title>
+
+    <style>
+        .portfolio-item {
+          overflow: hidden;
+         
+        }
+        .portfolio-item img{
+            transition: 2s;
+        }
+        .portfolio-item:hover img{
+            transform: scale(1.2);
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="./index.html">
+                    <h3>Scaffold</h3>
+                </a>
+            </div>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li>
+                        <div class="dropdwon-main-link">
+                            <a href="">DropDown
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </a>
+                        </div>
+                        <div class="dropdown-sublinks">
+                            <ul>
+                                <li><a href="">lorem</a></li>
+                                <li>
+                                    <div class="deep-down">
+                                        <a href="">lorem <i class="fa-solid fa-chevron-down"></i></a>
+                                    </div>
+                                    <div class="deep-down-sublink">
+                                        <ul>
+                                            <li><a href="">lorem</a></li>
+                                            <li><a href="">lorem</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li><a href="">lorem</a></li>
+                                <li><a href="">lorem</a></li>
+                                <li><a href="">lorem</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="">lorem</a></li>
+                </ul>
+            </div>
+            <div class="social-media">
+                <ul>
+                    <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href=""><i class="fa-brands fa-github"></i></a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <!-- hero section start -->
+        <section style="background-image: url(https://bootstrapmade.com/content/demo/Scaffold/assets/img/hero-bg.png);"
+            id="hero">
+            <div class="hero-info">
+                <div class="hero-title">
+                    <h1>Welcome to Our Website</h1>
+                </div>
+                <div class="hero-desc">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, cupiditate?`</p>
+                </div>
+                <div class="hero-links">
+                    <a href="">get started</a>
+                    <a href=""><i class="fa-solid fa-play"></i> watch video</a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <img width="200" height="200"
+                    src="https://bootstrapmade.com/content/demo/Scaffold/assets/img/hero-img.png" alt="">
+            </div>
+        </section>
+        <!-- hero section end -->
+
+        <!-- about section start -->
+        <section id="about">
+            <div class="about-image">
+                <img src="https://bootstrapmade.com/content/demo/Scaffold/assets/img/about.jpg" alt="">
+            </div>
+            <div class="about-info">
+                <div class="about-title1">
+                    <h3>Who We Are</h3>
+                </div>
+                <div class="about-title2">
+                    <h1>Expedita voluptas omnis cupiditate totam eveniet nobis sint iste. Dolores est repellat corrupti
+                        reprehenderit.</h1>
+                </div>
+                <div class="about-desc">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, doloremque asperiores!
+                        Necessitatibus et eos quidem excepturi minima quasi nihil, incidunt totam consectetur in veniam
+                        maiores vero commodi, fugiat debitis odio hic numquam minus! Sapiente inventore id, eveniet quos
+                        consequuntur a dolore doloremque iusto laboriosam, recusandae aspernatur illum tempore provident
+                        eaque?</p>
+                </div>
+                <div class="about-link">
+                    <a href="">read more <i class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </section>
+        <!-- about section end -->
+        <!-- service section start -->
+        <section id="service">
+            <div style="text-align: center;" class="section-head">
+                <h1>
+                    Services
+                </h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, a.</p>
+            </div>
+            <div style="display: flex; justify-content: space-between;" class="service-items">
+                <div class="service-item">
+                    <div class="service-icon">
+                        <i class="fa-solid fa-chart-line"></i>
+                    </div>
+                    <div class="service-title">
+                        <h3>Lorem ipsum dolor sit.</h3>
+                    </div>
+                    <div class="service-desc">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, molestias.</p>
+                    </div>
+                </div>
+                <div class="service-item">
+                    <div class="service-icon">
+                        <i class="fa-solid fa-chart-line"></i>
+                    </div>
+                    <div class="service-title">
+                        <h3>Lorem ipsum dolor sit.</h3>
+                    </div>
+                    <div class="service-desc">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, molestias.</p>
+                    </div>
+                </div>
+                <div class="service-item">
+                    <div class="service-icon">
+                        <i class="fa-solid fa-chart-line"></i>
+                    </div>
+                    <div class="service-title">
+                        <h3>Lorem ipsum dolor sit.</h3>
+                    </div>
+                    <div class="service-desc">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, molestias.</p>
+                    </div>
+                </div>
+                <div class="service-item">
+                    <div class="service-icon">
+                        <i class="fa-solid fa-chart-line"></i>
+                    </div>
+                    <div class="service-title">
+                        <h3>Lorem ipsum dolor sit.</h3>
+                    </div>
+                    <div class="service-desc">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, molestias.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- service section end -->
+
+
+
+
+        <!-- portfolio section start -->
+        <section id="portfolio">
+            <div style="text-align: center;" class="section-head">
+                <h1>
+                    Portfolio
+                </h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, a.</p>
+            </div>
+            <div class="portfolio-links">
+                <ul style="display: flex; justify-content: center;list-style: none;">
+                    <li><a style="margin-left: 30px; text-decoration: none;" href="">lorem</a></li>
+                    <li><a style="margin-left: 30px; text-decoration: none;" href="">lorem</a></li>
+                    <li><a style="margin-left: 30px; text-decoration: none;" href="">lorem</a></li>
+                    <li><a style="margin-left: 30px; text-decoration: none;" href="">lorem</a></li>
+                    <li><a style="margin-left: 30px; text-decoration: none;" href="">lorem</a></li>
+                </ul>
+            </div>
+            <div style="display: flex; justify-content: space-between;" class="portfolio-items">
+                <div class="portfolio-item">
+                    <img width="200" height="200" src="https://bootstrapmade.com/content/demo/Scaffold/assets/img/portfolio/app-1.jpg" alt="">
+                    <div class="item-overlay">
+                       <div class="overlay-title">
+                        <span>lorem</span>
+                       </div>
+                       <div class="overlay-link">
+                        <a href=""><i class="fa-solid fa-link"></i></a>
+                        <a href=""><i class="fa-solid fa-link"></i></a>
+                       </div>
+                       <div class="overlay-desc">
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione, quos.</p>
+                       </div>
+
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img width="200" height="200" src="https://bootstrapmade.com/content/demo/Scaffold/assets/img/portfolio/app-1.jpg" alt="">
+                    <div class="item-overlay">
+                       <div class="overlay-title">
+                        <span>lorem</span>
+                       </div>
+                       <div class="overlay-link">
+                        <a href=""><i class="fa-solid fa-link"></i></a>
+                        <a href=""><i class="fa-solid fa-link"></i></a>
+                       </div>
+                       <div class="overlay-desc">
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione, quos.</p>
+                       </div>
+
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <img width="200" height="200" src="https://bootstrapmade.com/content/demo/Scaffold/assets/img/portfolio/app-1.jpg" alt="">
+                    <div class="item-overlay">
+                       <div class="overlay-title">
+                        <span>lorem</span>
+                       </div>
+                       <div class="overlay-link">
+                        <a href=""><i class="fa-solid fa-link"></i></a>
+                        <a href=""><i class="fa-solid fa-link"></i></a>
+                       </div>
+                       <div class="overlay-desc">
+                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione, quos.</p>
+                       </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- portfolio section end -->
+
+
+
+        <!-- calltoaction section start -->
+        <section style="background-image: url(https://bootstrapmade.com/content/demo/Scaffold/assets/img/cta-bg.jpg); background-attachment: fixed;" id="calltoaction">
+             <div class="calltoaction-info">
+                  <h1>Lorem, ipsum dolor.</h1>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel, ullam?</p>
+             </div>
+             <div class="calltoaction-link">
+                <a href="call to action">call to action</a>
+             </div>
+        </section>
+        <!-- calltoaction section end -->
+    </main>
+    <footer style="display: flex; justify-content: space-evenly;">
+        <div class="footer-logo">
+            <a href="">
+                <h3>
+                    Scaffold
+                </h3>
+                <ul>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href=""><strong>phone</strong> : +1 5589 55488 55</a></li>
+                </ul>
+            </a>
+        </div>
+        <div style="display: flex;" class="footer-links">
+            <div class="footer-link">
+                <h3>lorem</h3>
+                <ul>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                </ul>
+            </div>
+            <div class="footer-link">
+                <h3>lorem</h3>
+                <ul>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                </ul>
+            </div>
+            <div class="footer-link">
+                <h3>lorem</h3>
+                <ul>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                </ul>
+            </div>
+            <div class="footer-link">
+                <h3>lorem</h3>
+                <ul>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                    <li><a href="">lorem</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
