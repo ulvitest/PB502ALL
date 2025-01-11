@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    width: 1200px;
+    border: 1px solid gray;
+    display: flex;
+    height: 600px;
+    /* justify-content: space-around; */
+    /* flex-wrap: wrap-reverse; */
+   /* flex-direction: row-reverse; */
+   /* flex-direction: column; */
+     /* align-items: baseline; */
+     /* flex-wrap: wrap;
+     align-content: flex-start; */
+     align-items: center;
+     flex-direction: column;
+}
+.all .box{
+    width: 22%;
+    height: 200px;
+    border: 1px dashed black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
