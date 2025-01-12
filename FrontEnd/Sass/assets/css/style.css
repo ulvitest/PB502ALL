@@ -1,0 +1,29 @@
+body .fail, body .success, body {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+}
+body .success {
+  width: 100px;
+  height: 300px;
+  background-color: green;
+  color: white;
+}
+body .success:hover {
+  background-color: antiquewhite;
+}
+body .fail {
+  width: 100px;
+  height: 500px;
+  background-color: red;
+  color: teal;
+}/*# sourceMappingURL=style.css.map */

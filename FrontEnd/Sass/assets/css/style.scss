@@ -1,0 +1,34 @@
+@import "./variables/variables";
+@import "./mixins/mixins";
+@import "./extends/extends";
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    @extend %flex;
+    height: 100vh;
+
+    .success {
+        // @extend %widthOrHight;
+        @include test(100px,300px );
+        background-color: $bg-green;
+        @include color();
+        @extend %flex;
+        &:hover{
+            background-color: antiquewhite
+        }
+    }
+
+    .fail {
+        // @extend %widthOrHight;
+        @include test(100px,500px );
+        background-color: $bg-red;
+        @include color(teal);
+        @extend %flex;
+    }
+}
